@@ -1,5 +1,6 @@
 # About me
 
+UBB FMI Anul I
 
 <!--
 - 🔭 I’m currently working on a Digital Planner
